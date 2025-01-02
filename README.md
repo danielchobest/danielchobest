@@ -23,13 +23,13 @@ Most of my work is in private repos.
 
 IMPORTANT NOTE: Only public repositories
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-stoyanov2009&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dstoyanov0&show_icons=true&theme=radical)
 
 ## Top Languages
 
 IMPORTANT NOTE: Only public repositories
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-stoyanov2009&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dstoyanov0&layout=compact&theme=radical)
 
 ## Connect with Me
 
