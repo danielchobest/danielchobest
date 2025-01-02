@@ -29,4 +29,4 @@ Most of my work is in private repos.
 
 ## Connect with Me
 
-- [Telegram](https://t.me/danielstoyanov1)
+- [Telegram](https://t.me/@danielstoyanov1)
