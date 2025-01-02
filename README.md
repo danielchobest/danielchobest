@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Flutter & Dart.
 - 👯 I’m looking to collaborate on Web Apps. 
 - 💬 Ask me about Postgresql.
-- 📫 How to reach me: https://t.me/danielstoyanov1
+- 📫 How to reach me: https://t.me/dstoyanov0
 
 ## Skills
 
@@ -29,4 +29,4 @@ Most of my work is in private repos.
 
 ## Connect with Me
 
-- [Telegram](https://t.me/@danielstoyanov1)
+- [Telegram](https://t.me/dstoyanov0)
