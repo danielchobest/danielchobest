@@ -24,7 +24,7 @@ However I can tell you I am going to launch an airdrop with mini app on telegram
 
 ## Sponsorship
 
-I am currently sponsoring [Coollabsio](https://github.com/coollabsio)
+I am currently sponsoring [Coollabsio](https://github.com/coollabsio).
 
 ## GitHub Stats
 
