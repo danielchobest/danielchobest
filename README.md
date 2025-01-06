@@ -13,7 +13,7 @@
 
 - Programming Languages: Python, HTML, CSS, JS, Java, C++, C, Assembly, PHP, Postgresql SQL, Ducky Script, Arduino
 - Frameworks: Flask, Django
-- Tools: Pycharm Profesional, Clion and other [JetBrains](https://github.com/JetBrains) apps, Visual Studio, Visual Studio Code.
+- Tools: Pycharm Profesional, Clion, Android Studio and other [JetBrains](https://github.com/JetBrains) apps, Visual Studio, Visual Studio Code.
 - Design with Figma
 - SEO (Search engine optimization) 
 - Marketing with Google Ads
