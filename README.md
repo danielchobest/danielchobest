@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an interesting private project. 
 - 🌱 I’m currently learning Flutter & Dart.
-- 🚀 I'm currently enhancing in Networking and preparing for CCNA
+- 🚀 I'm currently enhancing in Networking and preparing for CCNA1
 - 👯 I’m looking to collaborate on Web Apps. 
 - 💬 Ask me about Postgresql.
 - 📫 How to reach me: https://t.me/dstoyanov0
