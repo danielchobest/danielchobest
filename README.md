@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I’m currently working on an interesting private project. 
-- 🌱 I’m currently learning Flutter & Dart.
+- 🌱 I’m currently learning AI, PyTorch.
 - 🚀 I'm currently enhancing in Networking and preparing for CCNA1
 - 👯 I’m looking to collaborate on Web Apps. 
 - 💬 Ask me about Postgresql.
@@ -11,8 +11,8 @@
 
 ## Skills
 
-- Programming Languages: Python, HTML, CSS, JS, Java, C++, C, Assembly, PHP, Postgresql SQL, Ducky Script, Arduino
-- Frameworks: Flask, Django
+- Programming Languages: Python, HTML, CSS, JS, Java, C++, C, Assembly, PHP, Postgresql SQL, Ducky Script, Arduino, Dart
+- Frameworks: Flask, Django, PyTorch, Flutter
 - Tools: Pycharm Profesional, Clion, Android Studio and other [JetBrains](https://github.com/JetBrains) apps, Visual Studio, Visual Studio Code.
 - Design with Figma
 - SEO (Search engine optimization) 
@@ -20,8 +20,7 @@
 
 ## Projects
 
-Most of my work is in private repositories. 
-However I can tell you I am going to launch an airdrop with mini app on telegram soon. 
+Most of my work is in private repositories.
 
 ## Sponsorship
 
